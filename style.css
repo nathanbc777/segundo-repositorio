@@ -25,6 +25,16 @@ body {
    padding:4px 8px;
  }
 
+ h1, h2, h3 {
+   color:black
+   font-weight: 700;
+ }
+
+a:hover{
+  color:red
+}
+
+
 footer {
     background-color: azure;
 }
